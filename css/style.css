@@ -27,11 +27,7 @@ header {
     margin-bottom: 20px;
 }
 
-.profile img {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-}
+
 
 .time-info, .links, .goals {
     margin-bottom: 20px;
